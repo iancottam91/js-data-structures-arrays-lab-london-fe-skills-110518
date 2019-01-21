@@ -1,4 +1,3 @@
-
 # Arrays Lab
 
 ## Problem Statement
